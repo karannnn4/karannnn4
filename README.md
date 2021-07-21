@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ### Hola 👋 this is Karan Singh Bhadauria!
 
 ## How's life
-- 💫 I’m currently learning KOTLIN/JAVA.
-- 💬 Ask me about ANDROID and Tech related stuffs.
+- 💫 I’m currently learning KOTLIN/C++.
+- 💬 Ask me about ANDROID and writing stuffs.
 
 [![karannnn4 github stats](https://github-readme-stats.vercel.app/api?username=karannnn4&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/karannnn4)
 
